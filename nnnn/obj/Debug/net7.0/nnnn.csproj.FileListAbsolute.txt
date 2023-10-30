@@ -1,0 +1,14 @@
+C:\Users\ASUS Vivobook\Desktop\nnnn\bin\Debug\net7.0\nnnn.exe
+C:\Users\ASUS Vivobook\Desktop\nnnn\bin\Debug\net7.0\nnnn.deps.json
+C:\Users\ASUS Vivobook\Desktop\nnnn\bin\Debug\net7.0\nnnn.runtimeconfig.json
+C:\Users\ASUS Vivobook\Desktop\nnnn\bin\Debug\net7.0\nnnn.dll
+C:\Users\ASUS Vivobook\Desktop\nnnn\bin\Debug\net7.0\nnnn.pdb
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.AssemblyInfoInputs.cache
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.AssemblyInfo.cs
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.dll
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\refint\nnnn.dll
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.pdb
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\nnnn.genruntimeconfig.cache
+C:\Users\ASUS Vivobook\Desktop\nnnn\obj\Debug\net7.0\ref\nnnn.dll
